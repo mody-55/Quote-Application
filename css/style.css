@@ -1,0 +1,19 @@
+h1 {
+    font-family: Impact;
+    font-size: 80px;
+}
+h4{
+    font-size: 35px;
+}
+
+.btnn{
+    color: white;
+    margin-left: 500px;
+    padding: 30px 80px;
+    background-color: rgb(249 72 159);
+    transition: all 0.44;
+}
+
+.btnn:hover{
+    background-color: rgb(228, 3, 112);
+}
